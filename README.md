@@ -1,10 +1,10 @@
 # Mutual Fund Analytics Capstone Project
 
-## Overview
+# Overview
 
 This project analyzes mutual fund performance, investor behavior, portfolio holdings, and industry trends using Python, SQL, and Power BI.
 
-## Objectives
+# Objectives
 
 * Perform exploratory data analysis (EDA)
 * Analyze mutual fund performance metrics
@@ -12,7 +12,7 @@ This project analyzes mutual fund performance, investor behavior, portfolio hold
 * Calculate advanced risk metrics (VaR, CVaR, Sharpe Ratio)
 * Generate actionable investment insights
 
-## Technologies Used
+# Technologies Used
 
 * Python
 * Pandas
@@ -23,7 +23,7 @@ This project analyzes mutual fund performance, investor behavior, portfolio hold
 * Power BI
 * Git & GitHub
 
-## Project Structure
+# Project Structure
 
 ```text
 data/
@@ -33,7 +33,7 @@ dashboard/
 README.md
 ```
 
-## Key Deliverables
+# Key Deliverables
 
 * EDA Analysis Notebook
 * Performance Analytics Notebook
@@ -42,7 +42,7 @@ README.md
 * Final Project Report (PDF)
 * Project Presentation (PPT)
 
-## Dashboard Features
+# Dashboard Features
 
 * Industry Overview
 * Fund Performance Analysis
@@ -50,6 +50,6 @@ README.md
 * SIP & Market Trends
 * Risk Metrics Dashboard
 
-## Author
+# Author
 
 Suraj Narayan
